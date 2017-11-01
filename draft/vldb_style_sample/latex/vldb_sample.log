@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.2)  22 OCT 2017 12:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.2)  2 NOV 2017 00:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -196,6 +196,41 @@ Using 'Abbrev' bibliography style
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen131
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
 (./vldb_sample.aux)
 \openout1 = `vldb_sample.aux'.
 
@@ -213,12 +248,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for TU+cmr on input line 20.
-LaTeX Font Info:    No file TUcmr.fd. on input line 20.
-
-
-LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 20.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -253,57 +282,65 @@ LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 125.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 126.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 126.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 126
+.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 126
+.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 126.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 126.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 126.
+LaTeX Font Info:    Try loading font information for U+msa on input line 126.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 125.
+LaTeX Font Info:    Try loading font information for U+msb on input line 126.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 125.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 126.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
+) (./vldb_sample.bbl)
 
-LaTeX Font Warning: Font shape `TU/cmr/bx/n' undefined
-(Font)              using `TU/cmr/m/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/cmr/m/it' undefined
-(Font)              using `TU/cmr/m/n' instead on input line 131.
-
-(./vldb_sample.bbl)
-Overfull \hbox (1.02722pt too wide) in paragraph at lines 171--171
-[]\secfnt FINAL THOUGHTS ON GOOD LAY-OUT 
- []
-
-
-Overfull \hbox (3.24915pt too wide) in paragraph at lines 172--173
-\TU/cmr/bx/n/9 spacing (and format) of both text and captions of the PVLDB
- []
-
-
-Overfull \vbox (1.01024pt too high) has occurred while \output is active []
-
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
 [1
 
 
-] (./vldb_sample.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+] (./vldb_sample.aux) ) 
 Here is how much of TeX's memory you used:
- 2190 strings out of 493005
- 27205 string characters out of 6134596
- 115173 words of memory out of 5000000
- 6140 multiletter control sequences out of 15000+600000
- 17897 words of font info for 51 fonts, out of 8000000 for 9000
+ 2255 strings out of 493005
+ 29101 string characters out of 6134596
+ 106132 words of memory out of 5000000
+ 6187 multiletter control sequences out of 15000+600000
+ 26405 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 39i,12n,28p,637b,308s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,10n,28p,952b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on vldb_sample.xdv (1 page, 21608 bytes).
+Output written on vldb_sample.xdv (1 page, 13568 bytes).
